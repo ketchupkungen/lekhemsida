@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lekhemsida/static/css/main.321e492e.css",
+    "main.js": "/lekhemsida/static/js/main.6f74cabe.js",
+    "static/js/787.28cb0dcd.chunk.js": "/lekhemsida/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/lekhemsida/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lekhemsida/index.html",
+    "main.321e492e.css.map": "/lekhemsida/static/css/main.321e492e.css.map",
+    "main.6f74cabe.js.map": "/lekhemsida/static/js/main.6f74cabe.js.map",
+    "787.28cb0dcd.chunk.js.map": "/lekhemsida/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.321e492e.css",
+    "static/js/main.6f74cabe.js"
+  ]
+}
