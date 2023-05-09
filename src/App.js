@@ -4,88 +4,42 @@ import './App.scss';
 function App() {
   return (
     <main className="page-content">
-      <div className="card">
-        <div className="content">
-          <h2 className="title">Mountain View</h2>
-          <p className="copy">Check out all of these gorgeous mountain trips with beautiful views of, you guessed it, the mountains</p>
-          <button className="btn">View Trips</button>
+      <div class="l-container">
+        <div class="b-game-card">
+          <div class="b-game-card__cover" style="background-image: url(https://andrewhawkes.github.io/codepen-assets/steam-game-cards/game_1.jpg);"></div>
         </div>
-      </div>
-      <div className="card">
-        <div className="content">
-          <h2 className="title">To The Beach</h2>
-          <p className="copy">Plan your next beach trip with these fabulous destinations</p>
-          <button className="btn">View Trips</button>
+        <div class="b-game-card">
+          <div class="b-game-card__cover" style="background-image: url(https://andrewhawkes.github.io/codepen-assets/steam-game-cards/game_2.jpg);"></div>
         </div>
-      </div>
-      <div className="card">
-        <div className="content">
-          <h2 className="title">Desert Destinations</h2>
-          <p className="copy">It's the desert you've always dreamed of</p>
-          <button className="btn">Book Now</button>
+        <div class="b-game-card">
+          <div class="b-game-card__cover" style="background-image: url(https://andrewhawkes.github.io/codepen-assets/steam-game-cards/game_3.jpg);"></div>
         </div>
-      </div>
-      <div className="card">
-        <div className="content">
-          <h2 className="title">Explore The Galaxy</h2>
-          <p className="copy">Seriously, straight up, just blast off into outer space today</p>
-          <button className="btn">Book Now</button>
+        <div class="b-game-card">
+          <div class="b-game-card__cover" style="background-image: url(https://andrewhawkes.github.io/codepen-assets/steam-game-cards/game_4.jpg);"></div>
         </div>
-      </div>
-      <div className="card">
-        <div className="content">
-          <h2 className="title">Mountain View</h2>
-          <p className="copy">Check out all of these gorgeous mountain trips with beautiful views of, you guessed it, the mountains</p>
-          <button className="btn">View Trips</button>
+        <div class="b-game-card">
+          <div class="b-game-card__cover" style="background-image: url(https://andrewhawkes.github.io/codepen-assets/steam-game-cards/game_1.jpg);"></div>
         </div>
-      </div>
-      <div className="card">
-        <div className="content">
-          <h2 className="title">To The Beach</h2>
-          <p className="copy">Plan your next beach trip with these fabulous destinations</p>
-          <button className="btn">View Trips</button>
+        <div class="b-game-card">
+          <div class="b-game-card__cover" style="background-image: url(https://andrewhawkes.github.io/codepen-assets/steam-game-cards/game_2.jpg);"></div>
         </div>
-      </div>
-      <div className="card">
-        <div className="content">
-          <h2 className="title">Desert Destinations</h2>
-          <p className="copy">It's the desert you've always dreamed of</p>
-          <button className="btn">Book Now</button>
+        <div class="b-game-card">
+          <div class="b-game-card__cover" style="background-image: url(https://andrewhawkes.github.io/codepen-assets/steam-game-cards/game_3.jpg);"></div>
         </div>
-      </div>
-      <div className="card">
-        <div className="content">
-          <h2 className="title">Explore The Galaxy</h2>
-          <p className="copy">Seriously, straight up, just blast off into outer space today</p>
-          <button className="btn">Book Now</button>
+        <div class="b-game-card">
+          <div class="b-game-card__cover" style="background-image: url(https://andrewhawkes.github.io/codepen-assets/steam-game-cards/game_4.jpg);"></div>
         </div>
-      </div>
-      <div className="card">
-        <div className="content">
-          <h2 className="title">Mountain View</h2>
-          <p className="copy">Check out all of these gorgeous mountain trips with beautiful views of, you guessed it, the mountains</p>
-          <button className="btn">View Trips</button>
+        <div class="b-game-card">
+          <div class="b-game-card__cover" style="background-image: url(https://andrewhawkes.github.io/codepen-assets/steam-game-cards/game_1.jpg);"></div>
         </div>
-      </div>
-      <div className="card">
-        <div className="content">
-          <h2 className="title">To The Beach</h2>
-          <p className="copy">Plan your next beach trip with these fabulous destinations</p>
-          <button className="btn">View Trips</button>
+        <div class="b-game-card">
+          <div class="b-game-card__cover" style="background-image: url(https://andrewhawkes.github.io/codepen-assets/steam-game-cards/game_2.jpg);"></div>
         </div>
-      </div>
-      <div className="card">
-        <div className="content">
-          <h2 className="title">Desert Destinations</h2>
-          <p className="copy">It's the desert you've always dreamed of</p>
-          <button className="btn">Book Now</button>
+        <div class="b-game-card">
+          <div class="b-game-card__cover" style="background-image: url(https://andrewhawkes.github.io/codepen-assets/steam-game-cards/game_3.jpg);"></div>
         </div>
-      </div>
-      <div className="card">
-        <div className="content">
-          <h2 className="title">Explore The Galaxy</h2>
-          <p className="copy">Seriously, straight up, just blast off into outer space today</p>
-          <button className="btn">Book Now</button>
+        <div class="b-game-card">
+          <div class="b-game-card__cover" style="background-image: url(https://andrewhawkes.github.io/codepen-assets/steam-game-cards/game_4.jpg);"></div>
         </div>
       </div>
     </main>
